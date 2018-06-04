@@ -1,0 +1,228 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "serverfarms_D1_name": {
+            "value": null
+        },
+        "sites_lightwaveapi_name": {
+            "value": null
+        },
+        "servers_lightwavedb_name": {
+            "value": null
+        },
+        "sites_LightWavePortal_name": {
+            "value": null
+        },
+        "sites_lightwavefunction_name": {
+            "value": null
+        },
+        "components_lightwave_name": {
+            "value": null
+        },
+        "serverfarms_CentralUSPlan_name": {
+            "value": null
+        },
+        "config_web_name": {
+            "value": null
+        },
+        "config_web_name_1": {
+            "value": null
+        },
+        "components_lightwavefunction_name": {
+            "value": null
+        },
+        "storageAccounts_lightwavestore_name": {
+            "value": null
+        },
+        "config_web_name_2": {
+            "value": null
+        },
+        "advisors_DropIndex_name": {
+            "value": null
+        },
+        "databases_MasterDB_name": {
+            "value": null
+        },
+        "databases_ABCMaster_name": {
+            "value": null
+        },
+        "keys_ServiceManaged_name": {
+            "value": null
+        },
+        "advisors_CreateIndex_name": {
+            "value": null
+        },
+        "databases_ABCCompany_name": {
+            "value": null
+        },
+        "syncAgents_abccompany_name": {
+            "value": null
+        },
+        "databases_ChinaCompany_name": {
+            "value": null
+        },
+        "advisors_DefragmentIndex_name": {
+            "value": null
+        },
+        "auditingPolicies_Default_name": {
+            "value": null
+        },
+        "alertrules_Failure_Anomalies___lightwave_name": {
+            "value": null
+        },
+        "advisors_ForceLastGoodPlan_name": {
+            "value": null
+        },
+        "advisors_DbParameterization_name": {
+            "value": null
+        },
+        "encryptionProtector_current_name": {
+            "value": null
+        },
+        "elasticPools_LightwaveDbPool_name": {
+            "value": null
+        },
+        "alertrules_Failure_Anomalies___lightwavefunction_name": {
+            "value": null
+        },
+        "firewallRules_AllowAllWindowsAzureIps_name": {
+            "value": null
+        },
+        "advisors_DropIndex_name_1": {
+            "value": null
+        },
+        "advisors_DropIndex_name_2": {
+            "value": null
+        },
+        "advisors_DropIndex_name_3": {
+            "value": null
+        },
+        "advisors_CreateIndex_name_1": {
+            "value": null
+        },
+        "advisors_CreateIndex_name_2": {
+            "value": null
+        },
+        "advisors_CreateIndex_name_3": {
+            "value": null
+        },
+        "advisors_DropIndex_name_4": {
+            "value": null
+        },
+        "auditingPolicies_Default_name_1": {
+            "value": null
+        },
+        "databases_master_name": {
+            "value": null
+        },
+        "syncGroups_abccompany_name": {
+            "value": null
+        },
+        "geoBackupPolicies_Default_name": {
+            "value": null
+        },
+        "advisors_CreateIndex_name_4": {
+            "value": null
+        },
+        "advisors_DefragmentIndex_name_1": {
+            "value": null
+        },
+        "auditingPolicies_Default_name_2": {
+            "value": null
+        },
+        "advisors_DefragmentIndex_name_2": {
+            "value": null
+        },
+        "auditingPolicies_Default_name_3": {
+            "value": null
+        },
+        "geoBackupPolicies_Default_name_1": {
+            "value": null
+        },
+        "advisors_DefragmentIndex_name_3": {
+            "value": null
+        },
+        "auditingPolicies_Default_name_4": {
+            "value": null
+        },
+        "geoBackupPolicies_Default_name_2": {
+            "value": null
+        },
+        "advisors_ForceLastGoodPlan_name_1": {
+            "value": null
+        },
+        "firewallRules_ClientIPAddress_2018_5_28_9_46_4_name": {
+            "value": null
+        },
+        "geoBackupPolicies_Default_name_3": {
+            "value": null
+        },
+        "advisors_ForceLastGoodPlan_name_2": {
+            "value": null
+        },
+        "advisors_DbParameterization_name_1": {
+            "value": null
+        },
+        "hostNameBindings_lightwaveapi.azurewebsites.net_name": {
+            "value": null
+        },
+        "firewallRules_ClientIPAddress_2018_5_24_9_20_35_name": {
+            "value": null
+        },
+        "firewallRules_ClientIPAddress_2018_6_2_12_23_40_name": {
+            "value": null
+        },
+        "advisors_ForceLastGoodPlan_name_3": {
+            "value": null
+        },
+        "advisors_DbParameterization_name_2": {
+            "value": null
+        },
+        "advisors_DefragmentIndex_name_4": {
+            "value": null
+        },
+        "auditingPolicies_Default_name_5": {
+            "value": null
+        },
+        "firewallRules_ClientIPAddress_2018_5_28_10_31_47_name": {
+            "value": null
+        },
+        "advisors_DbParameterization_name_3": {
+            "value": null
+        },
+        "geoBackupPolicies_Default_name_4": {
+            "value": null
+        },
+        "advisors_ForceLastGoodPlan_name_4": {
+            "value": null
+        },
+        "advisors_DbParameterization_name_4": {
+            "value": null
+        },
+        "transparentDataEncryption_current_name": {
+            "value": null
+        },
+        "transparentDataEncryption_current_name_1": {
+            "value": null
+        },
+        "hostNameBindings_lightwaveportal.azurewebsites.net_name": {
+            "value": null
+        },
+        "transparentDataEncryption_current_name_2": {
+            "value": null
+        },
+        "transparentDataEncryption_current_name_3": {
+            "value": null
+        },
+        "transparentDataEncryption_current_name_4": {
+            "value": null
+        },
+        "hostNameBindings_lightwavefunction.azurewebsites.net_name": {
+            "value": null
+        },
+        "syncMembers_abccompany_name": {
+            "value": null
+        }
+    }
+}
